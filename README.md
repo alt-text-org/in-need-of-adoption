@@ -44,9 +44,6 @@ I discovered by accident that the MDN web developer documentation was inconsiste
 
 In starting the conversation with the MDN maintainers and examining the broader list of accessibility sections in various element docs I found inconsistent location and formatting, and on some examination have proposed a plan for improving things that's been met with unanimous approval by the developers, though they have not prioritized it. This project has the potential to improve the accessibility of large chunks of the internet and to spur similar documentation improvement elsewhere.
 
-Discussion: https://github.com/orgs/mdn/discussions/430
+Discussion, with plan: https://github.com/orgs/mdn/discussions/430
 
 The datalist docs have improved, but not to the hoped for or planned level: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/datalist#accessibility_concerns
-
-
-Discussion, with plan: https://github.com/orgs/mdn/discussions/430
